@@ -28,7 +28,7 @@ A página é responsiva, funcionando em celulares, tablets e desktop.
 
 ## 🚶 Acesso ##
 
-Deploy disponível no [Vercel](https://pokedex-brusoncini.vercel.app/)</a>.
+Deploy disponível [aqui](https://brusoncini.github.io/pokedex/).
 
 ## 👩🏻‍💻 Feito por ##
 
